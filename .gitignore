@@ -1,0 +1,13 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Angular cache
+.angular/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example

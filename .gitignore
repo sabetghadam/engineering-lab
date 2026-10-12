@@ -1,7 +1,12 @@
-
 # Dependencies — any folder depth
 node_modules/
 **/node_modules/
+
+# .NET build output — any folder depth
+bin/
+**/bin/
+obj/
+**/obj/
 
 # Angular cache — any folder depth
 .angular/
